@@ -1,2 +1,8 @@
-# 主页
-大家好！这是我的主页
+---
+layout: default
+title: "Happy Jekylling!"
+---
+
+## You're ready to go!
+
+Start developing your Jekyll website.
